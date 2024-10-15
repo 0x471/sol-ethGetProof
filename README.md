@@ -22,7 +22,7 @@ npx hardhat ignition deploy ./ignition/modules/TokenBridge.ts
 ```
 Alternatively, you can use the contract address provided in the overview section above.
 
-3- ** Execute the deposit script** with the address of the contract:
+3- **Execute the deposit script** with the address of the contract:
 ```bash
 address=0x95B3106Ac2D82c003fd876E550571F2d9fE5FF16 npx hardhat run scripts/deposit.ts
 ```
