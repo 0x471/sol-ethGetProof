@@ -22,12 +22,12 @@ It is highly recommended to use the following storage slot tool for enhanced fun
     ```
     Alternatively, you can use the contract address provided in the overview section above.
 
-3- **Execute the deposit script** with the address of the contract:
+3. **Execute the deposit script** with the address of the contract:
     ```bash
     address=0x95B3106Ac2D82c003fd876E550571F2d9fE5FF16 npx hardhat run scripts/deposit.ts
     ```
 
-4- **Confirm that the retrieved storage slot is correct** using [Herodotus Storage Slot Tool](https://storage.herodotus.dev/).
+4. **Confirm that the retrieved storage slot is correct** using [Herodotus Storage Slot Tool](https://storage.herodotus.dev/).
 
 
 ## Commands
