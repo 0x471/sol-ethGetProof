@@ -2,6 +2,8 @@
 
 This project demonstrates the use of the `eth_getProof` functionality, which is not supported on the Hardhat local network. Instead, the Sepolia test network is used as the default network for testing.
 
+https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html
+
 ## Overview
 
 - **Default EVM Version**: Paris
